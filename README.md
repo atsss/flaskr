@@ -16,3 +16,7 @@
 ### PyMySQL
 - Python 製の mysql クライアント
   - https://qiita.com/mitch0807/items/f9f6efd4e65a022a8ab9
+
+### Flask-Migrate
+- TODO
+  - https://qiita.com/shirakiya/items/0114d51e9c189658002e
