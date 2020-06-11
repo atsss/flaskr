@@ -5,6 +5,9 @@ verify_ssl = true
 
 [dev-packages]
 pytest = "*"
+opencv-python = "*"
+numpy = "*"
+matplotlib = "*"
 
 [packages]
 flask = "*"
